@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "nextjs-supabase-platform",
+  "version": "1.0.0",
+  "description": "Skills for building Link2Skill-style learning platforms with Next.js App Router and Supabase. Covers client setup, database migrations, Row Level Security, authentication, role separation, demo data, and secret handling.",
+  "author": {
+    "name": "Link2Skill Team"
+  },
+  "keywords": [
+    "nextjs",
+    "supabase",
+    "postgres",
+    "rls",
+    "learning-platform",
+    "migrations",
+    "authentication"
+  ],
+  "license": "MIT"
+}
